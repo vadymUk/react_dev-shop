@@ -13,7 +13,9 @@ function Header() {
                     className='right hide-on-med-and-down'
                 >
                     <li>
-                        <a href='!#'>Repo</a>
+                        <a href='https://github.com/vadymUk/react_dev-shop.git'>
+                            Repo
+                        </a>
                     </li>
                 </ul>
             </div>
