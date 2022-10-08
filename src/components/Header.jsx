@@ -13,7 +13,11 @@ function Header() {
                     className='right hide-on-med-and-down'
                 >
                     <li>
-                        <a href='https://github.com/vadymUk/react_dev-shop.git'>
+                        <a
+                            href='https://github.com/vadymUk/react_dev-shop.git'
+                            target='_blank'
+                            rel='noreferrer'
+                        >
                             Repo
                         </a>
                     </li>

@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepagas": "https://vadymUk.github.io/react_dev-shop.git",
+  "homepage": "https://vadymUk.github.io/react_dev-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
